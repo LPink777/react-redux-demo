@@ -1,0 +1,22 @@
+.search-header i {
+    color: #fff;
+}
+
+.search-header {
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.search-header input {
+    background: #fff;
+    border-radius: 5px;
+    height: 30px;
+    width: 80%;
+    align-items: center;
+    border: none;
+    margin-left: 20px;
+    padding-left: 10px;
+}

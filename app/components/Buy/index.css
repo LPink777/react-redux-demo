@@ -1,0 +1,14 @@
+.btn {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.btn button {
+    width: 80px;
+    height: 35px;
+    background: orangered;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}

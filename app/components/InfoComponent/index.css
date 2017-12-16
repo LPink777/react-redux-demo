@@ -1,0 +1,43 @@
+.info-component {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.info-list {
+    display: flex;
+}
+
+.info-list img {
+    width: 40%px;
+    height: 150px;
+    margin-right: 10px;
+}
+
+.info-star {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+}
+
+.t {
+    height: 40px;
+    align-items: center;
+    display: flex;
+    font-size: 16px;
+    color: red;
+}
+
+.info-t h2 {
+    line-height: 50px;
+    height: 50px;
+    font-size: 24px;
+}
+
+.info-bot {
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+}

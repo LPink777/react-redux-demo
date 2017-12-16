@@ -1,0 +1,41 @@
+.home-header {
+    height: 48px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.home-header a {
+    color: white;
+}
+
+.city {
+    flex: 1;
+    text-align: center;
+}
+
+.search {
+    flex: 4;
+    background: #fff;
+    border-radius: 8px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.search input {
+    border: none;
+    width: 80%;
+}
+
+.search i {
+    color: #666;
+    margin: 0 7px;
+}
+
+.profile {
+    flex: 0.5;
+    text-align: center;
+}

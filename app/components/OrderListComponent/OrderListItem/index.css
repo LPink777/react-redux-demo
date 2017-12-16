@@ -1,0 +1,77 @@
+.order-list-item {
+    display: flex;
+    padding: 10px 20px;
+}
+
+.order-list-item img,
+.list-content {
+    display: flex;
+    flex: 1;
+}
+
+.order-list-item img {
+    width: 50%;
+    height: 150px;
+}
+
+.list-content {
+    flex-direction: column;
+    padding-left: 15px;
+}
+
+.list-content span {
+    height: 40px;
+    line-height: 40px;
+}
+
+.list-content h3 {
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+}
+
+.order-btn {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex: 0.5;
+}
+
+.order-btn button {
+    height: 35px;
+    width: 60px;
+    border-radius: 3px;
+    border: none;
+    background: orangered;
+    color: #fff;
+}
+
+.order-btn .unselect {
+    background: #cccccc;
+}
+
+.comment-area {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 20px;
+}
+
+.comment-area div {
+    display: flex;
+    flex: row;
+}
+
+.comment-area textarea {
+    border: 1px solid #ccc;
+}
+
+.comment-area button {
+    width: 70px;
+    height: 35px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 10px;
+    border: none;
+    background: orangered;
+    color: white;
+}

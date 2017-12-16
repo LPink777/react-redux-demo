@@ -1,0 +1,44 @@
+.carousel ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.carousel ul li {
+    line-height: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 20%;
+}
+
+.carousel ul li a {
+    line-height: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    color: #e9203d;
+}
+
+.carousel ul li {
+    color: #e9203d;
+    font-size: 20px;
+}
+
+.dots {
+    display: flex;
+    justify-content: center;
+}
+
+.dots li {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    margin: 5px;
+    background: #ccc;
+}
+
+.dots .active {
+    background: #e9203d;
+}

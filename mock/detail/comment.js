@@ -1,0 +1,34 @@
+module.exports = {
+    hasMore:true,
+    data:[
+        {
+            username:'123****4562',
+            comment:'非常好吃，棒棒的，下次再来',
+            star:5
+        },{
+            username:'158****5698',
+            comment:'很好很不错下次再来',
+            star:5
+        },{
+            username:'147****2165',
+            comment:'羊肉的两太足了，很喜欢',
+            star:4
+        },{
+            username:'187****9899',
+            comment:'店家非常好，很耐心',
+            star:5
+        },{
+            username:'136****1111',
+            comment:'老板人很好给我们推荐了很多东西',
+            star:4
+        },{
+            username:'131****3265',
+            comment:'环境特别得帮下次还会再来',
+            star:5
+        },{
+            username:'182****1111',
+            comment:'感觉一般人太多了服务员都爱答不理得，有待改善',
+            star:3
+        },
+    ]
+}

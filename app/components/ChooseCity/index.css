@@ -1,0 +1,27 @@
+.chcity {
+    padding: 0 15px;
+}
+
+.chcity h5 {
+    font-size: 18px;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.cy {
+    background: rgb(204, 198, 198);
+    width: 28%;
+    text-align: center;
+    margin-bottom: 10px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 4px;
+    border: 1px solid #555252;
+}
+
+.ct {
+    padding: 0 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}

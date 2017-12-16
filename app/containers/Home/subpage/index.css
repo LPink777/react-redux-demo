@@ -1,0 +1,26 @@
+.ad a {
+    width: 30%;
+    margin-top: 10px;
+}
+
+.ad a img {
+    width: 100%;
+    height: 100px;
+    display: block;
+}
+
+.ad h3 {
+    padding-left: 3%;
+    color: #666666;
+}
+
+.ad {
+    margin-bottom: 20px;
+    padding: 0 3%;
+}
+
+.ad-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between
+}

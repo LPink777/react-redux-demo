@@ -1,0 +1,26 @@
+    * {
+        padding: 0;
+        margin: 0;
+        font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+        font-size: 14px;
+    }
+    
+    ul li {
+        list-style: none
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    input {
+        outline: none;
+    }
+    
+    .back {
+        background: #e9203d;
+    }
+    
+    .font {
+        color: #e9203d;
+    }
