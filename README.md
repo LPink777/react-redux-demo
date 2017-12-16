@@ -3,9 +3,11 @@
 react结合redux的手机旅游APP
 
 技术栈：
+
 react redux react-router-dom fetch
 
 使用：
+
 1.git clone https://github.com/LPink777/react-redux 下载此项目
 
 2.cd到文件夹下输入 npm install 下载依赖的安装包
