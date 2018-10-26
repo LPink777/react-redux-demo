@@ -1,5 +1,7 @@
 # react-redux demo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LPink777/react-redux-demo.svg)](https://greenkeeper.io/)
+
 react结合redux的手机旅游APP
 
 
